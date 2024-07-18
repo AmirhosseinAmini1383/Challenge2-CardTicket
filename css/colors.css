@@ -1,0 +1,13 @@
+:root {
+  --color-primary-500: #234894;
+  --color-primary-btn-400: #219f95;
+  --color-primary-smallBtn-300: #afcedd;
+  --color-primary-font-200: #1e1e1e;
+  --color-primary-font-100: #696969;
+  --color-primary-0: #fff;
+
+  --border-radius-tiny: 3px;
+  --border-radius-sm: 5px;
+  --border-radius-md: 7px;
+  --border-radius-lg: 9px;
+}
